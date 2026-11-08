@@ -1,0 +1,35 @@
+src/shared/agent-launch/permissions/tui-agent-permission-choice.test.ts
+  s_4e7eba5fc24e73::t_8be36f5ce65144 20,117-135
+docs/site/content/docs/agents/supported.mdx
+  s_4e7eba5fc24e73::t_855820b8520254 19,69
+mobile/src/test-support/mobile-agent-icon-assets-node.ts
+  s_4e7eba5fc24e73::t_855820b8520254 43-44
+config/scripts/locale-catalog/locale-translation-policy.mjs
+  s_4e7eba5fc24e73::t_855820b8520254 23
+src/main/runtime/orchestration/mailbox/routing/mailbox-terminal-identity.ts
+  s_4e7eba5fc24e73::t_fb417fb4b67cee 5,33-42,49-55
+mobile/src/components/mobile-agent-icon-assets.ts
+  s_4e7eba5fc24e73::t_855820b8520254 45-46
+src/main/runtime/orchestration/workers/launch/worker-dispatch-preamble-check-terminal.test.ts
+  s_4e7eba5fc24e73::t_dffe9983f0d063 1-26
+src/main/runtime/rpc/methods/orchestration/runs/tasks-dispatch.test.ts
+  s_4e7eba5fc24e73::t_e60bc601d6bdb6 146-162
+src/main/runtime/terminal/wait/terminal-wait-settlements.ts
+  s_4e7eba5fc24e73::t_562285f8188ad9 20,174-175,178-180
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "da48e20e67f057e80b2de7a6d8f979bca80ecd56",
+  "prompts": {},
+  "sessions": {
+    "s_4e7eba5fc24e73": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "8be64cd1-73d9-47d4-9f76-3ec10fc06679",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "x4vierli <6872643+x4vierli@users.noreply.github.com>"
+    }
+  }
+}
