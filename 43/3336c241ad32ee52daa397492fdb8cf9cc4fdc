@@ -1,0 +1,127 @@
+src/main/runtime/rpc/methods/orchestration/runs/dispatch-methods.ts
+  s_4e7eba5fc24e73::t_ffc7a99e8f1c27 86-91,183-184,262-267
+src/main/runtime/rpc/methods/orchestration/runs/tasks-dispatch.test.ts
+  s_4e7eba5fc24e73::t_ffc7a99e8f1c27 131-147
+src/renderer/src/lib/agent-catalog/agent-catalog-entries-secondary.ts
+  s_4e7eba5fc24e73::t_ffc7a99e8f1c27 156-161
+src/main/runtime/terminal/wait/terminal-wait-settlements.ts
+  s_4e7eba5fc24e73::t_ffc7a99e8f1c27 20,167-168,171-173
+src/main/runtime/__fixtures__/aiwork-approval-zh-hk-120x40.meta.json
+  s_4e7eba5fc24e73::t_ffc7a99e8f1c27 1-9
+src/main/runtime/__fixtures__/aiwork-ready-zh-120x40.meta.json
+  s_4e7eba5fc24e73::t_ffc7a99e8f1c27 1-9
+src/main/runtime/__fixtures__/aiwork-question-en-120x40.meta.json
+  s_4e7eba5fc24e73::t_ffc7a99e8f1c27 1-9
+src/main/ipc/pty/ipc/spawn-installed-agent-command.ts
+  s_4e7eba5fc24e73::t_ffc7a99e8f1c27 1-4,9-10,12-16,22
+src/main/runtime/orchestration/coordinator/dispatch/coordinator-task-dispatch.ts
+  s_4e7eba5fc24e73::t_ffc7a99e8f1c27 109
+src/main/runtime/terminal/launch/runtime-agent-terminal-startup.ts
+  s_4e7eba5fc24e73::t_ffc7a99e8f1c27 37-40,143-144,253-254,260,264,287
+src/main/runtime/terminal/wait/screen-input-veto.ts
+  s_4e7eba5fc24e73::t_ffc7a99e8f1c27 2,8-9,11-12
+src/renderer/src/components/agent/icons/agent-favicon-assets.ts
+  s_4e7eba5fc24e73::t_20e9f809f93f10 34,70-71
+src/main/runtime/orchestration/mailbox/routing/mailbox-owner.ts
+  s_4e7eba5fc24e73::t_ffc7a99e8f1c27 13-14
+src/main/runtime/terminal/launch/installed-agent-command-resolution.ts
+  s_4e7eba5fc24e73::t_ffc7a99e8f1c27 11,14-29,40-41,44,52,60,77-81,87-97
+src/main/runtime/__fixtures__/aiwork-approval-en-120x40.meta.json
+  s_4e7eba5fc24e73::t_ffc7a99e8f1c27 1-9
+src/main/runtime/terminal/launch/aiwork-installed-command-resolution.test.ts
+  s_4e7eba5fc24e73::t_ffc7a99e8f1c27 1-58
+src/main/runtime/terminal/wait/aiwork-gate-text.test.ts
+  s_4e7eba5fc24e73::t_ffc7a99e8f1c27 1-70
+docs/site/content/docs/agents/supported.mdx
+  s_4e7eba5fc24e73::t_ffc7a99e8f1c27 19,69
+src/main/runtime/orchestration/mailbox/routing/mailbox-terminal-identity.ts
+  s_4e7eba5fc24e73::t_ffc7a99e8f1c27 5,33-41,48-52
+src/main/runtime/terminal/wait/aiwork-gate-transcripts.test.ts
+  s_4e7eba5fc24e73::t_ffc7a99e8f1c27 1-174
+src/renderer/src/i18n/locales/en.json
+  s_4e7eba5fc24e73::t_ffc7a99e8f1c27 1780-1781
+src/main/runtime/orchestration/workers/launch/worker-dispatch-preamble.ts
+  s_4e7eba5fc24e73::t_ffc7a99e8f1c27 31-32,87-92
+src/main/runtime/orchestration/mailbox/formatting/message-formatting.ts
+  s_4e7eba5fc24e73::t_ffc7a99e8f1c27 138-140,145-147
+src/main/runtime/__fixtures__/aiwork-approval-zh-60x30.txt
+  s_4e7eba5fc24e73::t_ffc7a99e8f1c27 1-7
+src/main/runtime/orchestration/workers/launch/worker-dispatch-preamble-check-terminal.test.ts
+  s_4e7eba5fc24e73::t_ffc7a99e8f1c27 1-26
+src/main/runtime/__fixtures__/aiwork-approval-zh-120x40.txt
+  s_4e7eba5fc24e73::t_ffc7a99e8f1c27 1-7
+mobile/src/test-support/mobile-agent-icon-assets-node.ts
+  s_4e7eba5fc24e73::t_ffc7a99e8f1c27 43-44
+src/main/runtime/orchestration/mailbox/terminal-pointer/mailbox-pointer-stage.test.ts
+  s_4e7eba5fc24e73::t_ffc7a99e8f1c27 192-232
+src/main/runtime/orchestration/mailbox/terminal-pointer/mailbox-pointer-stage.ts
+  s_4e7eba5fc24e73::t_ffc7a99e8f1c27 104-105
+src/main/runtime/__fixtures__/aiwork-approval-en-120x40.txt
+  s_4e7eba5fc24e73::t_ffc7a99e8f1c27 1-7
+src/main/runtime/rpc/methods/orchestration/worker/deliver-worker-dispatch-preamble.ts
+  s_4e7eba5fc24e73::t_ffc7a99e8f1c27 72-74
+src/main/runtime/__fixtures__/aiwork-approval-zh-120x40.meta.json
+  s_4e7eba5fc24e73::t_ffc7a99e8f1c27 1-9
+src/main/runtime/__fixtures__/aiwork-question-zh-120x40.txt
+  s_4e7eba5fc24e73::t_ffc7a99e8f1c27 1-7
+src/main/runtime/__fixtures__/aiwork-plan-zh-120x40.meta.json
+  s_4e7eba5fc24e73::t_ffc7a99e8f1c27 1-9
+src/main/runtime/agent-state-rules/agent-state-rules-catalog.ts
+  s_4e7eba5fc24e73::t_ffc7a99e8f1c27 2,38
+src/main/runtime/terminal/wait/aiwork-terminal-readiness.ts
+  s_4e7eba5fc24e73::t_ffc7a99e8f1c27 1-18
+src/main/agent-hooks/README.md
+  s_4e7eba5fc24e73::t_ffc7a99e8f1c27 31,50,75-79
+src/main/runtime/__fixtures__/aiwork-plan-zh-120x40.txt
+  s_4e7eba5fc24e73::t_ffc7a99e8f1c27 1-7
+src/main/ipc/pty/ipc/spawn-run.ts
+  s_4e7eba5fc24e73::t_ffc7a99e8f1c27 12,55
+src/main/runtime/__fixtures__/aiwork-plan-en-120x40.meta.json
+  s_4e7eba5fc24e73::t_ffc7a99e8f1c27 1-9
+src/main/runtime/__fixtures__/aiwork-question-en-120x40.txt
+  s_4e7eba5fc24e73::t_ffc7a99e8f1c27 1-7
+src/main/runtime/__fixtures__/aiwork-question-zh-120x40.meta.json
+  s_4e7eba5fc24e73::t_ffc7a99e8f1c27 1-9
+src/main/runtime/__fixtures__/aiwork-draft-en-120x40.txt
+  s_4e7eba5fc24e73::t_ffc7a99e8f1c27 1-2
+src/main/runtime/__fixtures__/aiwork-ready-zh-120x40.txt
+  s_4e7eba5fc24e73::t_ffc7a99e8f1c27 1-2
+src/main/runtime/agent-state-rules/aiwork.json
+  s_4e7eba5fc24e73::t_ffc7a99e8f1c27 1-309
+src/main/runtime/__fixtures__/aiwork-draft-en-120x40.meta.json
+  s_4e7eba5fc24e73::t_ffc7a99e8f1c27 1-9
+src/main/runtime/__fixtures__/aiwork-ready-en-120x40.txt
+  s_4e7eba5fc24e73::t_ffc7a99e8f1c27 1-2
+config/scripts/locale-catalog/locale-translation-policy.mjs
+  s_4e7eba5fc24e73::t_ffc7a99e8f1c27 23
+src/main/runtime/__fixtures__/aiwork-approval-zh-60x30.meta.json
+  s_4e7eba5fc24e73::t_ffc7a99e8f1c27 1-9
+src/main/runtime/__fixtures__/aiwork-approval-zh-hk-120x40.txt
+  s_4e7eba5fc24e73::t_ffc7a99e8f1c27 1-7
+src/main/runtime/__fixtures__/aiwork-plan-en-120x40.txt
+  s_4e7eba5fc24e73::t_ffc7a99e8f1c27 1-7
+mobile/src/components/mobile-agent-icon-assets.ts
+  s_4e7eba5fc24e73::t_ffc7a99e8f1c27 45-46
+src/main/runtime/orchestration/coordinator/coordinator-runtime-contract.ts
+  s_4e7eba5fc24e73::t_ffc7a99e8f1c27 46
+src/main/runtime/orchestration/legacy-remote/federation.ts
+  s_4e7eba5fc24e73::t_ffc7a99e8f1c27 233-234
+src/main/runtime/__fixtures__/aiwork-ready-en-120x40.meta.json
+  s_4e7eba5fc24e73::t_ffc7a99e8f1c27 1-9
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "433336c241ad32ee52daa397492fdb8cf9cc4fdc",
+  "prompts": {},
+  "sessions": {
+    "s_4e7eba5fc24e73": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "8be64cd1-73d9-47d4-9f76-3ec10fc06679",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "x4vierli <6872643+x4vierli@users.noreply.github.com>"
+    }
+  }
+}
